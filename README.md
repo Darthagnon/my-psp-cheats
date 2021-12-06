@@ -15,4 +15,12 @@ PSP cheats database
 - [FUComplete](https://github.com/FUComplete/Patch/wiki/Enhancements-and-BonusDLC), a "definitive edition" mod of Monster Hunter Freedom Unite / Portable 2nd G, has some new cheats in its wiki
 - [60 fps cheats](https://kabutokun.github.io/) for PSP games. I may add these at some point, but not sure, as not all work on original PSP hardware (and the PSP is the only place you'd need the cheats in the DB). 
 - [60/30 fps cheat for MGS: Peace Walker](https://old.reddit.com/r/vitahacks/comments/2w5zti/guide_how_to_get_30fps_mgs_peace_walker_on_your/) - confirmed working on my PSP, Peace Walker normally runs at 15-20 fps and feels perfectly playable, if a little like you're playing with a rubber doll. 30fps cheat feels amazing.
-- TODO: see if I can find those misc. forums I got some of the Monster Hunter cheats from.
+- If playing on [PPSSPP Emulator](https://ppsspp.org/), I recommend using the [original PSP fonts](https://cdromance.com/guides/original-psp-fonts-for-ppsspp-for-android-and-pc-download/)
+
+## TODO:
+- see if I can find those misc. forums I got some of the Monster Hunter cheats from.
+- [Monster Hunter Freedom Unite Cheats (Codes Included)](https://www.youtube.com/watch?v=zECEA-e6Q8g) YouTube, ZanderNMullen, 25 Aug 2009
+- [MHFU "See monster Health code"](https://www.youtube.com/watch?v=QzXROBMS5QQ)
+- [SITUS KRONOUS: Cheat Monster Hunter Freedom Unite (USA)](https://kronouser.wordpress.com/2016/10/22/cheat-monster-hunter-freedom-united-usa/), 22/10/2016
+- [Monster Hunter Freedom Unite(MHFU) Cheat Codes PPSSPP](https://www.youtube.com/watch?v=IZxDxKmHsAM) YouTube, E Gaming, 15 Oct 2020 (according to this video, PPSSPP can import cheats from cheat.db. I need to confirm this). E Gaming is a good channel; I got a bunch of 3DS Monster Hunter DLC from him.
+- Find what cheat plugin is recommended for the PS Vita.
