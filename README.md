@@ -24,3 +24,4 @@ PSP cheats database
 - [SITUS KRONOUS: Cheat Monster Hunter Freedom Unite (USA)](https://kronouser.wordpress.com/2016/10/22/cheat-monster-hunter-freedom-united-usa/), 22/10/2016
 - [Monster Hunter Freedom Unite(MHFU) Cheat Codes PPSSPP](https://www.youtube.com/watch?v=IZxDxKmHsAM) YouTube, E Gaming, 15 Oct 2020 (according to this video, PPSSPP can import cheats from cheat.db. I need to confirm this). E Gaming is a good channel; I got a bunch of 3DS Monster Hunter DLC from him.
 - Find what cheat plugin is recommended for the PS Vita.
+- See also [here](https://forums.ppsspp.org/showthread.php?tid=11123) and need to check why MHFU HUD OFF code doesn't work
